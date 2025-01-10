@@ -25,7 +25,7 @@ Motion Art for Elementor is a React-based application that seamlessly integrates
 
 To run this project locally, follow these steps:
 
-1. Clone the repository: `https://github.com/satish-kumar75/Heliverse.git`
+1. Clone the repository: `https://github.com/Pranay-8483/HeliverseAssignment`
 2. Navigate to the project directory: `cd Heliverse`
 3. Install dependencies: `npm install`
 4. Start the development server: `npm run dev`
